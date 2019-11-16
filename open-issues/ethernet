@@ -1,0 +1,5 @@
+The system simply does not register an ethernet being connected.
+
+Possible Plan of Action:
+> Configure the network manually with a manual IP address.
+> Check if the ethernet shows up as a connected device but fails due to drivers.
